@@ -1,7 +1,9 @@
 # sales Process Script
 Repository of files to speed up sales processes
 
-As I needed to speed up the process of billing, I coded some lines that, pasted in the console, returned me a summary of the products and the sales price.
+As I needed to speed up the process of billing, I coded some lines that, pasted in the console, returned me a summary of the products and the sales price. 
+
+The 'sales left' are a reference to those which have more than one product, that are unreadable for the code.
 
 ![billing img](https://github.com/joacode/salesProcessScripts/blob/main/Screenshots%20for%20readme/billingData.png?raw=true)
 
